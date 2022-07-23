@@ -10,8 +10,6 @@
   2. Data Structures
   3. Linear Algebra
 
-###### ⚡ Fun fact: I'm a huge baseball fan
-
 <!--
 **akrakman/akrakman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,4 +22,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
+Fun fact: I'm a huge baseball fan
 -->
