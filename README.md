@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 ### 🔭 I’m currently working as a 
-  1. Course Associate for CS 124 Introduction to Computer Science at UIUC
-  2. Web developer for UIUC's ACM chapter
+  1. Course Associate for CS 124: Introduction to Computer Science at UIUC
+  2. Software developer for UIUC's ACM chapter
   3. Project Manager
 
 <!--
