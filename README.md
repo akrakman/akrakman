@@ -3,7 +3,6 @@
 ### 🔭 I’m currently working as a 
   1. Course Associate for CS 124: Introduction to Computer Science at UIUC
   2. Software developer for UIUC's ACM chapter
-  3. Project Manager
 
 <!--
 **akrakman/akrakman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
