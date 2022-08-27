@@ -4,9 +4,6 @@ I'm Aden, a student at the University of Illinois Urbana-Champaign studying Comp
 
 Feel free to reach out to me at [adenkrakman@gmail.com](mailto:adenkrakman@gmail.com)!
 
-#### 🔭 I’m currently working as a 
-  Course Associate for CS 124: Introduction to Computer Science at UIUC.
-
 <!--
 **akrakman/akrakman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
