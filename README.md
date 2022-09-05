@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Aden, a student at the University of Illinois Urbana-Champaign studying Computer Science and Music!
+I'm Aden, a student at the University of Illinois Urbana-Champaign studying Computer Science and Music.
 
 Feel free to reach out to me at [akrakman@gmail.com](mailto:akrakman@gmail.com).
 
